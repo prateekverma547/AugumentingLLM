@@ -1,0 +1,7 @@
+langchain
+langchain-openai
+streamlit == 1.24.0
+datasets
+chromadb
+python-dotenv
+sentence_transformers

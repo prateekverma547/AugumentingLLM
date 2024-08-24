@@ -1,0 +1,10 @@
+__pycache__/
+
+# Environments
+.env
+venv/
+chroma/
+# PyCharm
+.idea/
+
+.DS_Store
